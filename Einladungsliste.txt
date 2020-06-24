@@ -1,1 +1,3 @@
-Donald Duck
+Donald Duck,
+Albert Einstein,
+Hansi Hahn,
